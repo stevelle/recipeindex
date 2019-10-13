@@ -8,7 +8,7 @@ project will include a search function to search that index and yield the cookbo
 search terms. The intent is not to digitize the entire cookbook, and the recipes, but just the indexes.
 
 ## Core functionality
-This minimal replica is intended as a general exercise in building valuable functionality for humans. For easy of use,
+This minimal replica is intended as a general exercise in building valuable functionality for humans. For ease of use,
 the upload capability will require authentication, but not the search. The functionality will be designed as a single-
 tenant solution, meaning it will not allow multiple different people to index their cookbooks separately; it will only
 capture one cookbook collection.
